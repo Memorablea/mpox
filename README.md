@@ -1,2 +1,2 @@
-# mpox
-mpox-China
+# monkeypox
+Tracking monkeypox in China
